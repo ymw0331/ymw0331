@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/ymw0331"><img src="https://api.daily.dev/devcards/v2/hZAJS5vlP9kqN1ahBKwcD.png?r=uf3&type=default" width="356" alt="MingWei Yong's Dev Card"/></a>
+<a href="https://app.daily.dev/ymw0331"><img src="https://api.daily.dev/devcards/v2/hZAJS5vlP9kqN1ahBKwcD.png?type=wide&r=1w4" width="652" alt="MingWei Yong's Dev Card"/></a>
