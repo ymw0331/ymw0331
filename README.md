@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/ymw0331"><img src="https://api.daily.dev/devcards/v2/hZAJS5vlP9kqN1ahBKwcD.png?r=uf3&type=default" width="356" alt="MingWei Yong's Dev Card"/></a>
