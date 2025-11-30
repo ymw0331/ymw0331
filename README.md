@@ -1,4 +1,4 @@
-## Hi there 👋, this is MingWei (Wayne) here!
+## Hi there 👋, this is MingWei (Wayney) here!
 
 <!--
 **ymw0331/ymw0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
